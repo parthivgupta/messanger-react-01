@@ -1,5 +1,9 @@
 ## A simple chat application
 
+Imp: In this repository I have not added any of the node modules folder.....once you will run the command<br>
+`npx create-react-app project-name` automatically node modules will be added to the app.
+
+
 ### Usage of the application
 If you have the npm installed on your machine then just create a 'React App' using the command:
 `npx create-react-app project-name`
