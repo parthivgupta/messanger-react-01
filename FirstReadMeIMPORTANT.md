@@ -22,7 +22,7 @@ So the list of the commands are
 
 
 
-###FInal thing to do
+### FInal thing to do
 Now once you installed all the required package then you can delete all the files from the `src` directory 
 and copy files from `src` from my repository.
 Then paste the file into the `src` directory
