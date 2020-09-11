@@ -1,4 +1,4 @@
-###A simple chat application
+## A simple chat application
 
 ### Usage of the application
 If you have the npm installed on your machine then just create a 'React App' using the command:
@@ -9,11 +9,17 @@ in the applicaton I have installed some other npm packeges like Firebase, materi
 So the list of the commands are
 
 `cd project-name`
+
 `npm install -g firebase-tools`
+
 `npm install @material-ui/core`
+
 `npm install firebase`
+
 `npm install react-flip-move`
-`npm install @material-icons
+
+`npm install @material-icons`
+
 
 
 ###FInal thing to do
