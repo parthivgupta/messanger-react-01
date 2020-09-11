@@ -8,7 +8,7 @@ Imp: In this repository I have not added any of the node modules folder.....once
 If you have the npm installed on your machine then just create a 'React App' using the command:
 `npx create-react-app project-name`
 
-###Addtional Items:
+### Addtional Items:
 in the applicaton I have installed some other npm packeges like Firebase, material Ui
 So the list of the commands are
 
